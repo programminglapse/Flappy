@@ -1,0 +1,3 @@
+/home/vidal/Desktop/Games/FlappyBird/build/CMakeFiles/rebuild_cache.dir
+/home/vidal/Desktop/Games/FlappyBird/build/CMakeFiles/edit_cache.dir
+/home/vidal/Desktop/Games/FlappyBird/build/CMakeFiles/FlappyBird.dir
